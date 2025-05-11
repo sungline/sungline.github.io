@@ -313,5 +313,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _posts
+  - scope:
+      path: "_pages"
+      type: pages
+    values: 
+    author_profile: true
 
 date_format: "%y-%m-%d"
