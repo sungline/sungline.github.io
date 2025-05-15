@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "극단 성시어터라인 Sung Theatre Line"
 title_separator          : "|"
-subtitle                 : "연극적 개입있는 예술적 일상 Everyday life with artistic intervention"
+subtitle                 : "일상의 미학을 이끄는 연극 Everyday life with artistic intervention"
 name                     : "Gatekeeper of the Sung"
 description              : "극단 성시어타라인의 소개, 작품, 오디션 등을 볼 수 있습니다"
 url                      : "https://sungline.github.io"

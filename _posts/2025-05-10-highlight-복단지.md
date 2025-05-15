@@ -1,5 +1,6 @@
 ---
 title: "복단지와 삼색고양이 (YouTube)"
+permalink: /2025-05-10-highlight-복단지/
 categories:
   - 공연 영상
 tags:
