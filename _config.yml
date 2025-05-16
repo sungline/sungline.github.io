@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "극단 성시어터라인 Sung Theatre Line"
 title_separator          : "|"
 subtitle                 : "일상의 미학을 이끄는 연극 Everyday life with artistic intervention"
-name                     : "Gatekeeper of the Sung"
+name                     : "Sung Theatre Line"
 description              : "극단 성시어타라인의 소개, 작품, 오디션 등을 볼 수 있습니다"
 url                      : "https://sungline.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gatekeeper of the Sung"
+  name             : "Sung Theatre Line"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "극단 성시어터라인의 홈페이지입니다."
   location         : "South Korea"
