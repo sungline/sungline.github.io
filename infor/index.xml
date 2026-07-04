@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infors on SungTheatreLine</title>
+    <link>http://localhost:1313/infor/</link>
+    <description>Recent content in Infors on SungTheatreLine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>glenny@naver.com (극단 성시어터라인)</managingEditor>
+    <webMaster>glenny@naver.com (극단 성시어터라인)</webMaster>
+    <copyright>© 2026 극단 성시어터라인</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 13:59:28 +0900</lastBuildDate><atom:link href="http://localhost:1313/infor/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>함진애비와 오늘은 연극으로</title>
+      <link>http://localhost:1313/infor/002-hamjin-yoenchon/</link>
+      <pubDate>Sat, 27 Jun 2026 13:59:28 +0900</pubDate>
+      <author>glenny@naver.com (극단 성시어터라인)</author>
+      <guid>http://localhost:1313/infor/002-hamjin-yoenchon/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
